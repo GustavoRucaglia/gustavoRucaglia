@@ -13,7 +13,8 @@
 
 <h3>Cursando:</h3>
 
-<h4>Técnico de TI</h4>
+> <h4>Técnico de TI</h4>
 <h6>FIEB Jardim Belval</h6>
-<h4> JavaScript Completo</h4>
+
+> <h4> JavaScript Completo</h4>
 <h6>Serliv<h6>
