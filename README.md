@@ -1,16 +1,19 @@
-### Hi there 👋
+### Prazer, eu sou gustavo rucaglia 😄
 
-<!--
-**gustavo-Bozetti/gustavo-bozetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rucaglia-bozetti-santiago-031888248/)
+[![istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tangerina696/)
 
-Here are some ideas to get you started:
+![Gustavo rucaglia](https://github-readme-stats.vercel.app/api?username=gustavo-bozetti&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Minhas tecnologias cotidianas 🧑‍💻
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bozetti&layout=compact)
+
+<h3>Cursando:</h3>
+
+<h4>Técnico de TI</h4>
+<h6>FIEB Jardim Belval</h6>
+<h4> JavaScript Completo</h4>
+<h6>Serliv<h6>
